@@ -53,3 +53,4 @@ function showError() {
     alert("Location permission denied");
 }
 
+/**/
