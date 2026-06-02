@@ -53,4 +53,7 @@ function showError() {
     alert("Location permission denied");
 }
 //Mei paltu huuuuuu
+// I lied and kept things from Utsav
+//I always told him ki uske alwaa mera koi nhi aur Aryan kch nhi lgta h mera
+//but thora sa vkt bdlte hi "Aryan ke alwaa mera h hi kon"
 
