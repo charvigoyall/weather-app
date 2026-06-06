@@ -52,6 +52,6 @@ function showWeather(position) {
 function showError() {
     alert("Location permission denied");
 }
-//love u a lot charvi
+//love u a lot charvi ❤️
 
 
